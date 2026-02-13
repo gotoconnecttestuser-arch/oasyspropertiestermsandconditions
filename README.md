@@ -8,7 +8,7 @@ By providing your phone number, you consent to receive operational messages from
 To opt out of receiving messages, reply STOP at any time.
 For help or more information, reply HELP.
 Message and data rates may apply.
-For details on how your information is handled, please review our Privacy Policy at [insert privacy policy URL].
+For details on how your information is handled, please review our Privacy Policy at (https://github.com/gotoconnecttestuser-arch/oasyspropertiesprivacypolicie).
 
 SMS Communication
 Messages from Oasys Properties are intended for informational purposes only and are sent to current tenants, property owners, and applicants who have provided consent. Messages may include:
